@@ -1,0 +1,349 @@
+{
+  "version": 33,
+  "categories": [
+    {
+      "id": "cafe",
+      "title": "Café",
+      "order": 1
+    },
+    {
+      "id": "bakery",
+      "title": "Bakery",
+      "order": 2
+    },
+    {
+      "id": "rooms",
+      "title": "Cozy rooms",
+      "order": 3
+    },
+    {
+      "id": "plants",
+      "title": "Plants",
+      "order": 4
+    },
+    {
+      "id": "sweets",
+      "title": "Sweets",
+      "order": 5
+    },
+    {
+      "id": "rainy",
+      "title": "Rainy days",
+      "order": 6
+    },
+    {
+      "id": "picnic",
+      "title": "Picnic",
+      "order": 7
+    },
+    {
+      "id": "autumn",
+      "title": "Autumn pack",
+      "order": 8
+    },
+    {
+      "id": "winter",
+      "title": "Winter pack",
+      "order": 9
+    }
+  ],
+  "pictures": [
+    {
+      "id": "cafe_cat_barista",
+      "category": "cafe",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/cafe_cat_barista/",
+      "isNew": true,
+      "isDaily": true,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "cafe_bunny_tea",
+      "category": "cafe",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/cafe_bunny_tea/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "cafe_bear_morning",
+      "category": "cafe",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/cafe_bear_morning/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "cafe_window_mugs",
+      "category": "cafe",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/cafe_window_mugs/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "cafe_latte_cookies",
+      "category": "cafe",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/cafe_latte_cookies/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": true,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "bakery_cat_cupcakes",
+      "category": "bakery",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/bakery_cat_cupcakes/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "bakery_bread_shelf",
+      "category": "bakery",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/bakery_bread_shelf/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "bakery_cake_window",
+      "category": "bakery",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/bakery_cake_window/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": true,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "bakery_hamster_donut",
+      "category": "bakery",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/bakery_hamster_donut/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "bakery_puppy_baguette",
+      "category": "bakery",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/bakery_puppy_baguette/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "room_cat_nap",
+      "category": "rooms",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/room_cat_nap/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "room_reading_nook",
+      "category": "rooms",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/room_reading_nook/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "room_puppy_bed",
+      "category": "rooms",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/room_puppy_bed/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "room_bear_fireplace",
+      "category": "rooms",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/room_bear_fireplace/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": true,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "plants_cactus_trio",
+      "category": "plants",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/plants_cactus_trio/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "plants_monstera_cat",
+      "category": "plants",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/plants_monstera_cat/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "plants_succulent_shelf",
+      "category": "plants",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/plants_succulent_shelf/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "plants_frog_mushrooms",
+      "category": "plants",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/plants_frog_mushrooms/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": true,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "sweets_ice_cream",
+      "category": "sweets",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/sweets_ice_cream/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "sweets_donut_stack",
+      "category": "sweets",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/sweets_donut_stack/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "sweets_cake_party",
+      "category": "sweets",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/sweets_cake_party/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": true,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "rain_duck_umbrella",
+      "category": "rainy",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/rain_duck_umbrella/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "rain_cat_window",
+      "category": "rainy",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/rain_cat_window/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "rain_frog_leaf",
+      "category": "rainy",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/rain_frog_leaf/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "picnic_blanket",
+      "category": "picnic",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/picnic_blanket/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "picnic_bear_basket",
+      "category": "picnic",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/picnic_bear_basket/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "picnic_bunny_strawberries",
+      "category": "picnic",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/picnic_bunny_strawberries/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": true,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "autumn_pumpkin_cat",
+      "category": "autumn",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/autumn_pumpkin_cat/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "autumn_hedgehog_leaves",
+      "category": "autumn",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/autumn_hedgehog_leaves/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "autumn_cocoa_mug",
+      "category": "autumn",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/autumn_cocoa_mug/",
+      "isNew": false,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "winter_snowman_cat",
+      "category": "winter",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/winter_snowman_cat/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-12"
+    },
+    {
+      "id": "winter_penguin_cocoa",
+      "category": "winter",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/winter_penguin_cocoa/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": false,
+      "added": "2026-11-12"
+    },
+    {
+      "id": "winter_bunny_snowfall",
+      "category": "winter",
+      "base": "https://ganeshify642.github.io/cozy-content/pics/winter_bunny_snowfall/",
+      "isNew": true,
+      "isDaily": false,
+      "premium": true,
+      "added": "2026-11-12"
+    }
+  ]
+}
